@@ -10,5 +10,7 @@ public class AtmApp {
         //version4
         System.out.println("Git ögrenmek ne kadar da zormus");
         //version 5
+        System.out.println("gulistan branchi kodlarını yazdı.");
+        //version
     }
 }
