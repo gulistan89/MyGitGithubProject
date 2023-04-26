@@ -12,5 +12,9 @@ public class AtmApp {
         //version 5
         System.out.println("gulistan branchi kodlarını yazdı.");
         //glstn1
+        System.out.println("");
+        //glstn3
+        System.out.println("");
+        if(true){
     }
 }
