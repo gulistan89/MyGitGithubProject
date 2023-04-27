@@ -15,6 +15,8 @@ public class AtmApp {
         System.out.println("");
         //glstn3
         System.out.println("");
-        if(true){
+        if (true) {
+            //localde degısıklık yaptım.
+        }
     }
 }
