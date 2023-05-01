@@ -5,3 +5,7 @@ public class Account {
         }//deneme yapÄ±yorum
     }merhaba12345
 }hello12345==local
+//localde degısıklık yapıyorum
+//git add .
+//git commit -m"message"
+//git push
