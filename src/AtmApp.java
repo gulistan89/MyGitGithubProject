@@ -18,5 +18,5 @@ public class AtmApp {
         if (true) {
             //localde degısıklık yaptım.
         }
-    }
+    }//remote repoda degısıklık yaptım.
 }
