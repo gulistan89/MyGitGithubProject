@@ -3,5 +3,5 @@ public class Account {
         System.out.println("");
         for(int i=0;i<10;i++){
         }//deneme yapıyorum
-    }
+    }merhaba12345
 }
